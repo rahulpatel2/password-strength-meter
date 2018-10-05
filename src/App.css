@@ -22,7 +22,7 @@
   font-size: large;
 }
 
-.flex_container {
+.password-strength-wrapper {
     width: 300px;
     height: 10px;
     margin-left: auto;
@@ -32,13 +32,13 @@
     justify-content: space-between;
 }
 
-.flex_container > div {
+.password-strength-wrapper > div {
     width: 95px;
     border-radius: 1px;
     background-color: #f5f5f5;
 }
 
-.flex_container > div > div {
+.password-strength-wrapper > div > div {
   height: 100%;
 }
 
